@@ -18378,6 +18378,7 @@ Block, Siemens and generic&lt;p&gt;
 <plain>
 <text x="167.64" y="12.7" size="5.08" layer="94">Power supply</text>
 <text x="218.44" y="20.32" size="2.54" layer="94">Kamil Miedzinski</text>
+<circle x="40.64" y="68.58" radius="7.184203125" width="0.1524" layer="91"/>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0" smashed="yes">
